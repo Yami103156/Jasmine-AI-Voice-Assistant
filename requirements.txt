@@ -1,0 +1,12 @@
+pyttsx3
+SpeechRecognition
+numpy
+pickle-mixin
+psutil
+pyautogui
+tensorflow
+keras
+wikipedia
+requests
+pyaudio
+scikit-learn
